@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         //dette skal vi få til
     }
 
-
+    func awesome() {
+        print("juhu det funker")
+    }
 }
 
