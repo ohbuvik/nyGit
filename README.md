@@ -1,0 +1,3 @@
+# nyGit
+dette skal vel funke da.....
+dette er kule greier da
