@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     func awesome() {
-        print("juhu det funker")
+        print("juhu det funker. Enda mere gull")
     }
 }
 
